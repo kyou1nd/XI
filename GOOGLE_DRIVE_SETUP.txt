@@ -1,0 +1,21 @@
+XI TKJ 1 — GOOGLE DRIVE
+
+Main folder ID:
+1HYubSHq8072K2NVjEyi2H24C9wB-u_1m
+
+Subfolders:
+- Absensi Muka
+- Barcode Siswa
+- Music
+- Music Covers
+- Website Assets
+
+Apps Script Web App:
+https://script.google.com/macros/s/AKfycbw9Ml2YbfRDrhIuBbeWMwWsoMbkDlZHiCVXe6_IFUOSzD1g4XoFwPEDe9sZmS2LRlehUg/exec
+
+PENTING:
+Setelah memperbarui Code.gs, Deploy > Manage deployments > Edit > New version.
+Execute as: Me
+Who has access: Anyone
+
+Website akan mengambil Music, Music Covers, Barcode Siswa, dan Website Assets melalui JSONP.
